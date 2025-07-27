@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MLOps, CV, Transformers**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: @dosproh</h3>
 <p align="left">
 </p>
 
