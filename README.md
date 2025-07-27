@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chernov Nikita</h1>
-<h3 align="center">I am a Data Scientist, specializing in geoscience and Oil and Gas Industry.</h3>
+<h3 align="center">I am a Data Scientist, specializing in geoscience and Oil & Gas Industry.</h3>
 
 - 🌱 I’m currently learning **MLOps, CV, Transformers**
 
