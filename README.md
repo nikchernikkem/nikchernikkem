@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chernov Nikita</h1>
 <h3 align="center">I am a Data Scientist, specializing in geoscience and Oil & Gas Industry.</h3>
 
-- 🌱 I’m currently learning **MLOps, CV, Transformers**
+- 🌱 I’m currently learning **MLOps, NLP, Transformers**
 
 <h3 align="left">Connect with me: <a href="https://t.me/dosproh">@dosproh</a> </h3>
 <p align="left">
