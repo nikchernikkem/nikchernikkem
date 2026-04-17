@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost">
 
   <!-- NLP / LLM / RAG -->
-  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers">
   <img src="https://img.shields.io/badge/SentenceTransformers-0A84FF?style=for-the-badge&logo=python&logoColor=white" alt="SentenceTransformers">
   <img src="https://img.shields.io/badge/LangChain/LangGraph-008631?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain/LangGraph">
 
