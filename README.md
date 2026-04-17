@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
   <img src="https://img.shields.io/badge/SentenceTransformers-0A84FF?style=for-the-badge&logo=python&logoColor=white" alt="SentenceTransformers">
   <img src="https://img.shields.io/badge/LangChain/LangGraph-008631?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain/LangGraph">
-  <img src="https://img.shields.io/badge/OpenAI_Agents-000000?style=for-the-badge&logo=openaigym&logoColor=white" alt="OpenAI Agents SDK">
 
   <!-- Data & processing -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
